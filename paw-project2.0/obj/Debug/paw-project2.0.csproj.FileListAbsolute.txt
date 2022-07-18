@@ -1,0 +1,15 @@
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\bin\Debug\paw-project2.0.exe.config
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\bin\Debug\paw-project2.0.exe
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\bin\Debug\paw-project2.0.pdb
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw-project2.0.csproj.AssemblyReference.cache
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw-project2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw_project2._0.Properties.Resources.resources
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw-project2.0.csproj.GenerateResource.cache
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw-project2.0.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw-project2.0.exe
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw-project2.0.pdb
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw_project2._0.AddMaterial.resources
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw_project2._0.MainForm.resources
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw_project2._0.AddProvider.resources
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw_project2._0.AddContract.resources
+C:\Users\alexd\source\paw\paw-project2.0\paw-project2.0\obj\Debug\paw_project2._0.Login.resources
